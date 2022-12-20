@@ -38,4 +38,15 @@ src\test\java\task\qatesting\october\ida\apitestsignu
 
 
 ```
+# Tugas 5 Upload Assignment 1 - 4 in repository git 
+
+# Tugas 6 Create Mobile Automation of SauceLabs
+1. Open the App SauceLabs
+2. Input username, Password, and Click login button 
+3. Click add to cart 
+4. Click checkout page 
+
+
+# Tugas 7 Create Load test Jmeter report 
+
 
